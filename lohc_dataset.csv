@@ -1,4 +1,4 @@
-﻿experiment_id,temperature,pressure,flow_rate,catalyst_amount,H2/LOHC [mol/mol],conversion,selectivity
+﻿experiment_id,temperature,pressure,flow_rate,catalyst_amount,H2/LOHC ,conversion,selectivity
 1,240,5,15.8778626,4,6,86.025,72.425
 2,240,5,15.8778626,4,7,89.95,81.368
 3,240,5,15.8778626,4,8,98.128,95.128
